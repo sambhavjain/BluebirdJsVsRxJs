@@ -1,0 +1,26 @@
+{
+  "name": "bluebird_rx_implementation",
+  "version": "1.0.0",
+  "description": "Comparison between performance of RxJs and BluebirdJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sambhavjain/Bluebirdjs_RxJs.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sambhavjain/Bluebirdjs_RxJs/issues"
+  },
+  "homepage": "https://github.com/sambhavjain/Bluebirdjs_RxJs#readme",
+  "dependencies": {
+    "bluebird": "3.5.0",
+    "express": "4.15.2",
+    "rx": "4.1.0",
+    "rxjs": "5.2.0",
+    "superagent": "3.5.0"
+  }
+}
